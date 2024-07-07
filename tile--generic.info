@@ -9,7 +9,7 @@
     <implements-subsite-p>f</implements-subsite-p>
     <inherit-templates-p>f</inherit-templates-p>
 
-    <version name="1.0.1d" url="http://openacs.org/repository/download/apm/tile--generic-1.0.1d.apm">
+    <version name="1.0.1" url="http://openacs.org/repository/download/apm/tile--generic-1.0.1.apm">
         <owner url="mailto:acsctrl@mednet.ucla.edu">ACS CTRL</owner>
         <summary>Tile package to handle web-views</summary>
         <release-date>2021-09-09</release-date>
@@ -17,7 +17,7 @@
         <maturity>0</maturity>
 
         <extends url="dgit-base-tile" version="1.3.0"/>
-        <provides url="tile--generic" version="1.0.1d"/>
+        <provides url="tile--generic" version="1.0.1"/>
 
         <callbacks>
         </callbacks>
